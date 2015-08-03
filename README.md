@@ -5,7 +5,12 @@ For each tool, it provides an alias to it, so you won't need to add this folder 
 
 ## Installing
 
-If you have [PsGet](http://psget.net/) installed:
+Windows 10 users:
+
+    Install-Module PSGnuwin32 -Scope CurrentUser
+
+Otherwise, if you have [PsGet](http://psget.net/) installed:
+
 
     Install-Module PSGnuwin32
   
