@@ -167,4 +167,8 @@ AliasesToExport = @(
     'zmore',
     'znew')
 HelpInfoURI = 'https://github.com/ecsousa/PSGnuwin32'
+PrivateData = @{
+        Tags='gnuwin32'
+        ProjectUri='https://github.com/ecsousa/PSGnuwin32'
+    }
 }
